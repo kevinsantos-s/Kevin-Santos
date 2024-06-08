@@ -14,7 +14,9 @@
 </p>
 
 <!-- GithubStats -->
-![KevinSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=gotham)
+![KevinSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=gotham) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=donut&show_icons=true&theme=gotham)](https://github.com/kevinsantos-s/github-readme-stats)
+
 
 
 ## 🔥 Skills
