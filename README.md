@@ -8,7 +8,7 @@
 <p>
   Olá 👋, Eu sou Kevin! Um estudante de programação do Brasil.
 
-  - 🌱 Atualmente estou cursando Programação no ITB Brasílio Flores de Azevedo (FIEB) 
+  - 🌱 Atualmente estou cursando T.I no ITB Brasílio Flores de Azevedo (FIEB) 
 
   - 🔭Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Programação.
 </p>
